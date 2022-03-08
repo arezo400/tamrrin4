@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'B Nazanin';
+    src: url('BNazanin.eot');
+    src: url('BNazanin.eot?#iefix') format('embedded-opentype'),
+        url('BNazanin.woff2') format('woff2'),
+        url('BNazanin.woff') format('woff'),
+        url('BNazanin.ttf') format('truetype'),
+        url('BNazanin.svg#BNazanin') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Urdu Typesetting';
+    src: url('UrduTypesetting-Bold.eot');
+    src: url('UrduTypesetting-Bold.eot?#iefix') format('embedded-opentype'),
+        url('UrduTypesetting-Bold.woff2') format('woff2'),
+        url('UrduTypesetting-Bold.woff') format('woff'),
+        url('UrduTypesetting-Bold.ttf') format('truetype'),
+        url('UrduTypesetting-Bold.svg#UrduTypesetting-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
